@@ -64,7 +64,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "file-type": "^12.4.0",
+    "file-type": "^16.5.4",
     "image-size": "^0.8.3",
     "mime-types": "^2.1.25",
     "moment": "^2.24.0",
